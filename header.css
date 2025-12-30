@@ -9,8 +9,9 @@ header li{
    margin-left:15px;
 }
 header{
+    height: 300px;
     background-color: rgb(13, 53, 54);
     margin-bottom:0px;
-    height: 300px;
-
+    
 }
+
