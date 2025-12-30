@@ -1,0 +1,26 @@
+main{
+    background: linear-gradient(to bottom,rgb(13, 53, 54),blueviolet);
+}
+h3{
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    
+}
+h2{
+    margin: 30px;
+    color: rgb(255, 255, 255);
+}
+button{
+    background-color: crimson;
+    height: 40px;
+    width: 90px;
+    margin: 10px;
+}
+button:active{
+    background-color: aqua;
+}
+img{
+    height: 200px;
+    width: 400px;
+}
+

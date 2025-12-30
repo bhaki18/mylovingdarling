@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom, black,red);
+    height: fit-content;
+    margin-top: 30px;
+}
+*{
+   margin:0%;
+   text-align: center;
+}
+hr{
+    height: 2px;
+    color:black;
+}

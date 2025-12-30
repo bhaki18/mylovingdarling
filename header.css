@@ -1,0 +1,15 @@
+header a{
+    color:rgb(0, 115, 255);
+}
+header li{
+    display: inline-block;
+    margin-right: 25%;
+   text-align: center;
+   margin-top: 50px;
+   margin-left:15px;
+}
+header{
+    background-color: rgb(13, 53, 54);
+    margin-bottom:0px;
+    height: 200px;
+}

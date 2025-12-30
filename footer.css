@@ -1,0 +1,20 @@
+footer a{
+    color:white;
+}
+footer li{
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  margin: 50px;
+  
+}
+footer{
+    color:#000000;
+    height: 300px;
+    background-color: rgb(51, 49, 55);
+}
+
+footer ul{
+    display: inline-block;
+    margin-right: 50px;
+    
+}
